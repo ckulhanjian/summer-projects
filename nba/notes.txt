@@ -8,3 +8,10 @@ VENV - 1 for each project
 6. deactivate
 
 # Run this first: source venv/bin/activate
+
+DataFrames
+- row x columns
+- concat with dictionary can behave weird (may need to use values or keys)
+- df -> json
+    - orient="records" : This defines the structure of the JSON.
+	"records" means: each row of the DataFrame becomes a dictionary, and all rows are stored in a list
