@@ -1,0 +1,10 @@
+VENV - 1 for each project
+-> install dependencies safely
+1. mkdir my_project
+2. cd my_project
+3. python3 -m venv venv
+4. source venv/bin/activate
+5. pip install --upgrade pip !!
+6. deactivate
+
+# Run this first: source venv/bin/activate
