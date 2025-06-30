@@ -61,8 +61,28 @@ def draw_court(fig, p1, p2):
     )
 
 def add_full_court_to_plotly(fig, lw=2, color='black'):
+    fig.add_shape(
+    type="path",
+    path="M -22 4 A 23.75 23.75 0 0 1 22 4",
+    line=dict(color="black", width=5)
+    )
 
-    fig.update_layout(shapes=shapes)
+    fig.add_shape(
+    type="path",
+    path="M -22 90 A 23.75 23.75 0 0 0 22 90",
+    line=dict(color="black", width=5)
+    )
+
+    # Set axis range & layout
+    fig.update_layout(
+        width=600,
+        height=1000,
+        xaxis=dict(range=[-25, 25], scaleanchor="y", scaleratio=1),
+        yaxis=dict(range=[0, 94]),
+        showlegend=False,
+        plot_bgcolor="black",
+        margin=dict(t=20, b=20, l=20, r=20)
+    )
 
 
 def main():

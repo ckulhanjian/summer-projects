@@ -110,7 +110,10 @@ def main():
     data2 = get_player_shots(id2,season)
     ax = plot_density(data1, data2,"coolwarm")
     draw_full_court(ax)
-    draw_plot(ax, name1, name2)
+    # draw_plot(ax, name1, name2)
+    # Just add this to your existing main() function:
+    plt.savefig('heatmap.png', dpi=200, bbox_inches='tight', facecolor='black')
+# Then create simple HTML that references the image
 
 
 main()
