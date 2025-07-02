@@ -2,3 +2,12 @@
     display: flex;
     flex-direction: column;
 }
+
+.player {
+    display: flex;
+    flex-direction: column;
+}
+
+.screen {
+    display: flex;
+}

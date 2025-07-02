@@ -6,10 +6,33 @@
     <title>NBA Shot Map</title>
 </head>
 <body>
-    <div class="court">
-        <img src="../players/BamAdebayo.png" alt="Bam" height="500" width="600">
-        <img src="../players/NikolaJokić.png" alt="Nikola" height="500" width="600">
+    <div class="screen">
+        <div class="court">
+            <img src="../players/BamAdebayo.png" alt="Bam" height="300" width="400">
+            <img src="../players/NikolaJokić.png" alt="Nikola" height="300" width="400">
+        </div>
+
+        <div class="function">
+            <h1>NBA Shot Comparison</h1>
+
+            <div class="player">
+                <h2>Player 1</h2>
+                <p>Team:</p>
+                <p>Player:</p>
+                <button onclick="generateGraph()">See Graph</button>
+            </div>
+
+            <div class="player">
+                <h2>Player 2</h2>
+                <p>Team:</p>
+                <p>Player:</p>
+                <button onclick="generateGraph()">See Graph</button>
+            </div>
+
+        </div>
+
     </div>
+    
     
     
 </body>
