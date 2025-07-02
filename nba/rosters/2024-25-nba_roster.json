@@ -1,0 +1,3194 @@
+[
+  {
+    "PLAYER":"Jalen Johnson",
+    "PLAYER_ID":1630552,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Trent Forrest",
+    "PLAYER_ID":1630235,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Seth Lundy",
+    "PLAYER_ID":1641754,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Kobe Bufkin",
+    "PLAYER_ID":1641723,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Dejounte Murray",
+    "PLAYER_ID":1627749,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Trae Young",
+    "PLAYER_ID":1629027,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"De'Andre Hunter",
+    "PLAYER_ID":1629631,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Bogdan Bogdanovi\u0107",
+    "PLAYER_ID":203992,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"AJ Griffin",
+    "PLAYER_ID":1631100,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Clint Capela",
+    "PLAYER_ID":203991,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Onyeka Okongwu",
+    "PLAYER_ID":1630168,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Mouhamed Gueye",
+    "PLAYER_ID":1631243,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Dylan Windler",
+    "PLAYER_ID":1629685,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Bruno Fernando",
+    "PLAYER_ID":1628981,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Garrison Mathews",
+    "PLAYER_ID":1629726,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"V\u00edt Krej\u010d\u00ed",
+    "PLAYER_ID":1630249,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Wesley Matthews",
+    "PLAYER_ID":202083,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Saddiq Bey",
+    "PLAYER_ID":1630180,
+    "TEAM_NAME":"Atlanta Hawks",
+    "TEAM_ID":1610612737
+  },
+  {
+    "PLAYER":"Jayson Tatum",
+    "PLAYER_ID":1628369,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Jrue Holiday",
+    "PLAYER_ID":201950,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Jaylen Brown",
+    "PLAYER_ID":1627759,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Kristaps Porzi\u0146\u0123is",
+    "PLAYER_ID":204001,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Derrick White",
+    "PLAYER_ID":1628401,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Payton Pritchard",
+    "PLAYER_ID":1630202,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Oshae Brissett",
+    "PLAYER_ID":1629052,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Drew Peterson",
+    "PLAYER_ID":1641809,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"JD Davison",
+    "PLAYER_ID":1631120,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Xavier Tillman",
+    "PLAYER_ID":1630214,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Jordan Walsh",
+    "PLAYER_ID":1641775,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Sam Hauser",
+    "PLAYER_ID":1630573,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Luke Kornet",
+    "PLAYER_ID":1628436,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Al Horford",
+    "PLAYER_ID":201143,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Jaden Springer",
+    "PLAYER_ID":1630531,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Svi Mykhailiuk",
+    "PLAYER_ID":1629004,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Neemias Queta",
+    "PLAYER_ID":1629674,
+    "TEAM_NAME":"Boston Celtics",
+    "TEAM_ID":1610612738
+  },
+  {
+    "PLAYER":"Max Strus",
+    "PLAYER_ID":1629622,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Ty Jerome",
+    "PLAYER_ID":1629660,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Caris LeVert",
+    "PLAYER_ID":1627747,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Evan Mobley",
+    "PLAYER_ID":1630596,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Sam Merrill",
+    "PLAYER_ID":1630241,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Pete Nance",
+    "PLAYER_ID":1631250,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Craig Porter Jr.",
+    "PLAYER_ID":1641854,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Darius Garland",
+    "PLAYER_ID":1629636,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Tristan Thompson",
+    "PLAYER_ID":202684,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Isaiah Mobley",
+    "PLAYER_ID":1630600,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Georges Niang",
+    "PLAYER_ID":1627777,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Emoni Bates",
+    "PLAYER_ID":1641734,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Marcus Morris Sr.",
+    "PLAYER_ID":202694,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Damian Jones",
+    "PLAYER_ID":1627745,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Jarrett Allen",
+    "PLAYER_ID":1628386,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Dean Wade",
+    "PLAYER_ID":1629731,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Isaac Okoro",
+    "PLAYER_ID":1630171,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Donovan Mitchell",
+    "PLAYER_ID":1628378,
+    "TEAM_NAME":"Cleveland Cavaliers",
+    "TEAM_ID":1610612739
+  },
+  {
+    "PLAYER":"Dereon Seabron",
+    "PLAYER_ID":1631220,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Zion Williamson",
+    "PLAYER_ID":1629627,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"CJ McCollum",
+    "PLAYER_ID":203468,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Herbert Jones",
+    "PLAYER_ID":1630529,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Naji Marshall",
+    "PLAYER_ID":1630230,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Dyson Daniels",
+    "PLAYER_ID":1630700,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Brandon Ingram",
+    "PLAYER_ID":1627742,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Jose Alvarado",
+    "PLAYER_ID":1630631,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Jonas Valan\u010di\u016bnas",
+    "PLAYER_ID":202685,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Larry Nance Jr.",
+    "PLAYER_ID":1626204,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Jordan Hawkins",
+    "PLAYER_ID":1641722,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Trey Murphy III",
+    "PLAYER_ID":1630530,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"E.J. Liddell",
+    "PLAYER_ID":1630604,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Malcolm Hill",
+    "PLAYER_ID":1630792,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Matt Ryan",
+    "PLAYER_ID":1630346,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Cody Zeller",
+    "PLAYER_ID":203469,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Jeremiah Robinson-Earl",
+    "PLAYER_ID":1630526,
+    "TEAM_NAME":"New Orleans Pelicans",
+    "TEAM_ID":1610612740
+  },
+  {
+    "PLAYER":"Andrew Funk",
+    "PLAYER_ID":1641847,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Coby White",
+    "PLAYER_ID":1629632,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Lonzo Ball",
+    "PLAYER_ID":1628366,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Andre Drummond",
+    "PLAYER_ID":203083,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Jevon Carter",
+    "PLAYER_ID":1628975,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Alex Caruso",
+    "PLAYER_ID":1627936,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Zach LaVine",
+    "PLAYER_ID":203897,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Nikola Vu\u010devi\u0107",
+    "PLAYER_ID":202696,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"DeMar DeRozan",
+    "PLAYER_ID":201942,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Ayo Dosunmu",
+    "PLAYER_ID":1630245,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Torrey Craig",
+    "PLAYER_ID":1628470,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Julian Phillips",
+    "PLAYER_ID":1641763,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Onuralp Bitim",
+    "PLAYER_ID":1641931,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Adama Sanogo",
+    "PLAYER_ID":1641766,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Javonte Green",
+    "PLAYER_ID":1629750,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Dalen Terry",
+    "PLAYER_ID":1631207,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Patrick Williams",
+    "PLAYER_ID":1630172,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Henri Drell",
+    "PLAYER_ID":1630929,
+    "TEAM_NAME":"Chicago Bulls",
+    "TEAM_ID":1610612741
+  },
+  {
+    "PLAYER":"Dant\u00e9 Exum",
+    "PLAYER_ID":203957,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Brandon Williams",
+    "PLAYER_ID":1630314,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Jaden Hardy",
+    "PLAYER_ID":1630702,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Dereck Lively II",
+    "PLAYER_ID":1641726,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Dwight Powell",
+    "PLAYER_ID":203939,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Josh Green",
+    "PLAYER_ID":1630182,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"A.J. Lawson",
+    "PLAYER_ID":1630639,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Tim Hardaway Jr.",
+    "PLAYER_ID":203501,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Kyrie Irving",
+    "PLAYER_ID":202681,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Alex Fudge",
+    "PLAYER_ID":1641788,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Olivier-Maxence Prosper",
+    "PLAYER_ID":1641765,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Daniel Gafford",
+    "PLAYER_ID":1629655,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"P.J. Washington",
+    "PLAYER_ID":1629023,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Greg Brown III",
+    "PLAYER_ID":1630535,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Maxi Kleber",
+    "PLAYER_ID":1628467,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Derrick Jones Jr.",
+    "PLAYER_ID":1627884,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Luka Don\u010di\u0107",
+    "PLAYER_ID":1629029,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Markieff Morris",
+    "PLAYER_ID":202693,
+    "TEAM_NAME":"Dallas Mavericks",
+    "TEAM_ID":1610612742
+  },
+  {
+    "PLAYER":"Christian Braun",
+    "PLAYER_ID":1631128,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Michael Porter Jr.",
+    "PLAYER_ID":1629008,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Julian Strawther",
+    "PLAYER_ID":1631124,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Hunter Tyson",
+    "PLAYER_ID":1641816,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Kentavious Caldwell-Pope",
+    "PLAYER_ID":203484,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"DeAndre Jordan",
+    "PLAYER_ID":201599,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Reggie Jackson",
+    "PLAYER_ID":202704,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Peyton Watson",
+    "PLAYER_ID":1631212,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Justin Holiday",
+    "PLAYER_ID":203200,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Braxton Key",
+    "PLAYER_ID":1630296,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Nikola Joki\u0107",
+    "PLAYER_ID":203999,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Collin Gillespie",
+    "PLAYER_ID":1631221,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Zeke Nnaji",
+    "PLAYER_ID":1630192,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Jalen Pickett",
+    "PLAYER_ID":1629618,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Jamal Murray",
+    "PLAYER_ID":1627750,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Jay Huff",
+    "PLAYER_ID":1630643,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Vlatko \u010can\u010dar",
+    "PLAYER_ID":1628427,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Aaron Gordon",
+    "PLAYER_ID":203932,
+    "TEAM_NAME":"Denver Nuggets",
+    "TEAM_ID":1610612743
+  },
+  {
+    "PLAYER":"Gary Payton II",
+    "PLAYER_ID":1627780,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Jonathan Kuminga",
+    "PLAYER_ID":1630228,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Brandin Podziemski",
+    "PLAYER_ID":1641764,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Chris Paul",
+    "PLAYER_ID":101108,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Moses Moody",
+    "PLAYER_ID":1630541,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Kevon Looney",
+    "PLAYER_ID":1626172,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Klay Thompson",
+    "PLAYER_ID":202691,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Usman Garuba",
+    "PLAYER_ID":1630586,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Gui Santos",
+    "PLAYER_ID":1630611,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Jerome Robinson",
+    "PLAYER_ID":1629010,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Dario \u0160ari\u0107",
+    "PLAYER_ID":203967,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Andrew Wiggins",
+    "PLAYER_ID":203952,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Draymond Green",
+    "PLAYER_ID":203110,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Lester Quinones",
+    "PLAYER_ID":1631311,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Stephen Curry",
+    "PLAYER_ID":201939,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Trayce Jackson-Davis",
+    "PLAYER_ID":1631218,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Pat Spencer",
+    "PLAYER_ID":1630311,
+    "TEAM_NAME":"Golden State Warriors",
+    "TEAM_ID":1610612744
+  },
+  {
+    "PLAYER":"Aaron Holiday",
+    "PLAYER_ID":1628988,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Jermaine Samuels Jr.",
+    "PLAYER_ID":1631257,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Amen Thompson",
+    "PLAYER_ID":1641708,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Jock Landale",
+    "PLAYER_ID":1629111,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Jalen Green",
+    "PLAYER_ID":1630224,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Fred VanVleet",
+    "PLAYER_ID":1627832,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Cam Whitmore",
+    "PLAYER_ID":1641715,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Jae'Sean Tate",
+    "PLAYER_ID":1630256,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Dillon Brooks",
+    "PLAYER_ID":1628415,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Jabari Smith Jr.",
+    "PLAYER_ID":1631095,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Steven Adams",
+    "PLAYER_ID":203500,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Nate Hinton",
+    "PLAYER_ID":1630207,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Tari Eason",
+    "PLAYER_ID":1631106,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Nate Williams",
+    "PLAYER_ID":1631466,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Reggie Bullock Jr.",
+    "PLAYER_ID":203493,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Alperen Sengun",
+    "PLAYER_ID":1630578,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Jeff Green",
+    "PLAYER_ID":201145,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Boban Marjanovi\u0107",
+    "PLAYER_ID":1626246,
+    "TEAM_NAME":"Houston Rockets",
+    "TEAM_ID":1610612745
+  },
+  {
+    "PLAYER":"Russell Westbrook",
+    "PLAYER_ID":201566,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"James Harden",
+    "PLAYER_ID":201935,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Kawhi Leonard",
+    "PLAYER_ID":202695,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Brandon Boston",
+    "PLAYER_ID":1630527,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Bones Hyland",
+    "PLAYER_ID":1630538,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Amir Coffey",
+    "PLAYER_ID":1629599,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Daniel Theis",
+    "PLAYER_ID":1628464,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Jordan Miller",
+    "PLAYER_ID":1641757,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Paul George",
+    "PLAYER_ID":202331,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Terance Mann",
+    "PLAYER_ID":1629611,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"P.J. Tucker",
+    "PLAYER_ID":200782,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Kobe Brown",
+    "PLAYER_ID":1641738,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Xavier Moon",
+    "PLAYER_ID":1629875,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Kai Jones",
+    "PLAYER_ID":1630539,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Norman Powell",
+    "PLAYER_ID":1626181,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Moussa Diabat\u00e9",
+    "PLAYER_ID":1631217,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Ivica Zubac",
+    "PLAYER_ID":1627826,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Mason Plumlee",
+    "PLAYER_ID":203486,
+    "TEAM_NAME":"Los Angeles Clippers",
+    "TEAM_ID":1610612746
+  },
+  {
+    "PLAYER":"Jalen Hood-Schifino",
+    "PLAYER_ID":1641720,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"D'Angelo Russell",
+    "PLAYER_ID":1626156,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Jarred Vanderbilt",
+    "PLAYER_ID":1629020,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Anthony Davis",
+    "PLAYER_ID":203076,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Skylar Mays",
+    "PLAYER_ID":1630219,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Cam Reddish",
+    "PLAYER_ID":1629629,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Gabe Vincent",
+    "PLAYER_ID":1629216,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Max Christie",
+    "PLAYER_ID":1631108,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Jaxson Hayes",
+    "PLAYER_ID":1629637,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Taurean Prince",
+    "PLAYER_ID":1627752,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Colin Castleton",
+    "PLAYER_ID":1630658,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Austin Reaves",
+    "PLAYER_ID":1630559,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Harry Giles III",
+    "PLAYER_ID":1628385,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Maxwell Lewis",
+    "PLAYER_ID":1641721,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"LeBron James",
+    "PLAYER_ID":2544,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Spencer Dinwiddie",
+    "PLAYER_ID":203915,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Rui Hachimura",
+    "PLAYER_ID":1629060,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Christian Wood",
+    "PLAYER_ID":1626174,
+    "TEAM_NAME":"Los Angeles Lakers",
+    "TEAM_ID":1610612747
+  },
+  {
+    "PLAYER":"Josh Richardson",
+    "PLAYER_ID":1626196,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Terry Rozier",
+    "PLAYER_ID":1626179,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Delon Wright",
+    "PLAYER_ID":1626153,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Nikola Jovi\u0107",
+    "PLAYER_ID":1631107,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Jamal Cain",
+    "PLAYER_ID":1631288,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Patty Mills",
+    "PLAYER_ID":201988,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Jaime Jaquez Jr.",
+    "PLAYER_ID":1631170,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Bam Adebayo",
+    "PLAYER_ID":1628389,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Tyler Herro",
+    "PLAYER_ID":1629639,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Alondes Williams",
+    "PLAYER_ID":1631214,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Caleb Martin",
+    "PLAYER_ID":1628997,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Cole Swider",
+    "PLAYER_ID":1631306,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Jimmy Butler III",
+    "PLAYER_ID":202710,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Haywood Highsmith",
+    "PLAYER_ID":1629312,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Orlando Robinson",
+    "PLAYER_ID":1631115,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Thomas Bryant",
+    "PLAYER_ID":1628418,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Kevin Love",
+    "PLAYER_ID":201567,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Duncan Robinson",
+    "PLAYER_ID":1629130,
+    "TEAM_NAME":"Miami Heat",
+    "TEAM_ID":1610612748
+  },
+  {
+    "PLAYER":"Jaylin Galloway",
+    "PLAYER_ID":1641945,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Damian Lillard",
+    "PLAYER_ID":203081,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"MarJon Beauchamp",
+    "PLAYER_ID":1630699,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Malik Beasley",
+    "PLAYER_ID":1627736,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Chris Livingston",
+    "PLAYER_ID":1641753,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Bobby Portis",
+    "PLAYER_ID":1626171,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Brook Lopez",
+    "PLAYER_ID":201572,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Danilo Gallinari",
+    "PLAYER_ID":201568,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"AJ Green",
+    "PLAYER_ID":1631260,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Patrick Beverley",
+    "PLAYER_ID":201976,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Khris Middleton",
+    "PLAYER_ID":203114,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"TyTy Washington Jr.",
+    "PLAYER_ID":1631102,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Pat Connaughton",
+    "PLAYER_ID":1626192,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Giannis Antetokounmpo",
+    "PLAYER_ID":203507,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Thanasis Antetokounmpo",
+    "PLAYER_ID":203648,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Andre Jackson Jr.",
+    "PLAYER_ID":1641748,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Ryan Rollins",
+    "PLAYER_ID":1631157,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Jae Crowder",
+    "PLAYER_ID":203109,
+    "TEAM_NAME":"Milwaukee Bucks",
+    "TEAM_ID":1610612749
+  },
+  {
+    "PLAYER":"Jaylen Clark",
+    "PLAYER_ID":1641740,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Kyle Anderson",
+    "PLAYER_ID":203937,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Jaden McDaniels",
+    "PLAYER_ID":1630183,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Anthony Edwards",
+    "PLAYER_ID":1630162,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Jordan McLaughlin",
+    "PLAYER_ID":1629162,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Wendell Moore Jr.",
+    "PLAYER_ID":1631111,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Josh Minott",
+    "PLAYER_ID":1631169,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Nickeil Alexander-Walker",
+    "PLAYER_ID":1629638,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Mike Conley",
+    "PLAYER_ID":201144,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Naz Reid",
+    "PLAYER_ID":1629675,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Daishen Nix",
+    "PLAYER_ID":1630227,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Mont\u00e9 Morris",
+    "PLAYER_ID":1628420,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"T.J. Warren",
+    "PLAYER_ID":203933,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Rudy Gobert",
+    "PLAYER_ID":203497,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Karl-Anthony Towns",
+    "PLAYER_ID":1626157,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Leonard Miller",
+    "PLAYER_ID":1631159,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Luka Garza",
+    "PLAYER_ID":1630568,
+    "TEAM_NAME":"Minnesota Timberwolves",
+    "TEAM_ID":1610612750
+  },
+  {
+    "PLAYER":"Dariq Whitehead",
+    "PLAYER_ID":1641727,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Mikal Bridges",
+    "PLAYER_ID":1628969,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Cameron Johnson",
+    "PLAYER_ID":1629661,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Dennis Smith Jr.",
+    "PLAYER_ID":1628372,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Lonnie Walker IV",
+    "PLAYER_ID":1629022,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Trendon Watford",
+    "PLAYER_ID":1630570,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Ben Simmons",
+    "PLAYER_ID":1627732,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Keita Bates-Diop",
+    "PLAYER_ID":1628966,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Jacob Gilyard",
+    "PLAYER_ID":1631367,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Jaylen Martin",
+    "PLAYER_ID":1641798,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Dennis Schr\u00f6der",
+    "PLAYER_ID":203471,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Day'Ron Sharpe",
+    "PLAYER_ID":1630549,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Noah Clowney",
+    "PLAYER_ID":1641730,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Jalen Wilson",
+    "PLAYER_ID":1630592,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Cam Thomas",
+    "PLAYER_ID":1630560,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Dorian Finney-Smith",
+    "PLAYER_ID":1627827,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Nic Claxton",
+    "PLAYER_ID":1629651,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Keon Johnson",
+    "PLAYER_ID":1630553,
+    "TEAM_NAME":"Brooklyn Nets",
+    "TEAM_ID":1610612751
+  },
+  {
+    "PLAYER":"Donte DiVincenzo",
+    "PLAYER_ID":1628978,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Jacob Toppin",
+    "PLAYER_ID":1631210,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Duane Washington Jr.",
+    "PLAYER_ID":1630613,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Miles McBride",
+    "PLAYER_ID":1630540,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Josh Hart",
+    "PLAYER_ID":1628404,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Charlie Brown Jr.",
+    "PLAYER_ID":1629718,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Precious Achiuwa",
+    "PLAYER_ID":1630173,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"OG Anunoby",
+    "PLAYER_ID":1628384,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"DaQuan Jeffries",
+    "PLAYER_ID":1629610,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Jalen Brunson",
+    "PLAYER_ID":1628973,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Shake Milton",
+    "PLAYER_ID":1629003,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Alec Burks",
+    "PLAYER_ID":202692,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Mamadi Diakite",
+    "PLAYER_ID":1629603,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Mitchell Robinson",
+    "PLAYER_ID":1629011,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Julius Randle",
+    "PLAYER_ID":203944,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Bojan Bogdanovi\u0107",
+    "PLAYER_ID":202711,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Jericho Sims",
+    "PLAYER_ID":1630579,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Isaiah Hartenstein",
+    "PLAYER_ID":1628392,
+    "TEAM_NAME":"New York Knicks",
+    "TEAM_ID":1610612752
+  },
+  {
+    "PLAYER":"Anthony Black",
+    "PLAYER_ID":1641710,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Jonathan Isaac",
+    "PLAYER_ID":1628371,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Caleb Houstan",
+    "PLAYER_ID":1631216,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Chuma Okeke",
+    "PLAYER_ID":1629643,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Jalen Suggs",
+    "PLAYER_ID":1630591,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Paolo Banchero",
+    "PLAYER_ID":1631094,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Joe Ingles",
+    "PLAYER_ID":204060,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Kevon Harris",
+    "PLAYER_ID":1630284,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Trevelin Queen",
+    "PLAYER_ID":1630243,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Jett Howard",
+    "PLAYER_ID":1641724,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Gary Harris",
+    "PLAYER_ID":203914,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Markelle Fultz",
+    "PLAYER_ID":1628365,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Moritz Wagner",
+    "PLAYER_ID":1629021,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Franz Wagner",
+    "PLAYER_ID":1630532,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Admiral Schofield",
+    "PLAYER_ID":1629678,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Wendell Carter Jr.",
+    "PLAYER_ID":1628976,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Goga Bitadze",
+    "PLAYER_ID":1629048,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Cole Anthony",
+    "PLAYER_ID":1630175,
+    "TEAM_NAME":"Orlando Magic",
+    "TEAM_ID":1610612753
+  },
+  {
+    "PLAYER":"Tyrese Haliburton",
+    "PLAYER_ID":1630169,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Bennedict Mathurin",
+    "PLAYER_ID":1631097,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Obi Toppin",
+    "PLAYER_ID":1630167,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Andrew Nembhard",
+    "PLAYER_ID":1629614,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Jarace Walker",
+    "PLAYER_ID":1641716,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"T.J. McConnell",
+    "PLAYER_ID":204456,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Kendall Brown",
+    "PLAYER_ID":1631112,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"James Johnson",
+    "PLAYER_ID":201949,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Doug McDermott",
+    "PLAYER_ID":203926,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Isaiah Wong",
+    "PLAYER_ID":1631209,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Isaiah Jackson",
+    "PLAYER_ID":1630543,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Aaron Nesmith",
+    "PLAYER_ID":1630174,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Jalen Smith",
+    "PLAYER_ID":1630188,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Ben Sheppard",
+    "PLAYER_ID":1641767,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Quenton Jackson",
+    "PLAYER_ID":1631245,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Myles Turner",
+    "PLAYER_ID":1626167,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Pascal Siakam",
+    "PLAYER_ID":1627783,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Oscar Tshiebwe",
+    "PLAYER_ID":1631131,
+    "TEAM_NAME":"Indiana Pacers",
+    "TEAM_ID":1610612754
+  },
+  {
+    "PLAYER":"Tyrese Maxey",
+    "PLAYER_ID":1630178,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"KJ Martin",
+    "PLAYER_ID":1630231,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Mo Bamba",
+    "PLAYER_ID":1628964,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Kyle Lowry",
+    "PLAYER_ID":200768,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"De'Anthony Melton",
+    "PLAYER_ID":1629001,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Kelly Oubre Jr.",
+    "PLAYER_ID":1626162,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Jeff Dowtin Jr.",
+    "PLAYER_ID":1630288,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Tobias Harris",
+    "PLAYER_ID":202699,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Ricky Council IV",
+    "PLAYER_ID":1641741,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Buddy Hield",
+    "PLAYER_ID":1627741,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Joel Embiid",
+    "PLAYER_ID":203954,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Cameron Payne",
+    "PLAYER_ID":1626166,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Terquavion Smith",
+    "PLAYER_ID":1631173,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Robert Covington",
+    "PLAYER_ID":203496,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Nicolas Batum",
+    "PLAYER_ID":201587,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Paul Reed",
+    "PLAYER_ID":1630194,
+    "TEAM_NAME":"Philadelphia 76ers",
+    "TEAM_ID":1610612755
+  },
+  {
+    "PLAYER":"Royce O'Neale",
+    "PLAYER_ID":1626220,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Devin Booker",
+    "PLAYER_ID":1626164,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Josh Okogie",
+    "PLAYER_ID":1629006,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Bradley Beal",
+    "PLAYER_ID":203078,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Isaiah Thomas",
+    "PLAYER_ID":202738,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Grayson Allen",
+    "PLAYER_ID":1628960,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Damion Lee",
+    "PLAYER_ID":1627814,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Bol Bol",
+    "PLAYER_ID":1629626,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Ish Wainright",
+    "PLAYER_ID":1630688,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Drew Eubanks",
+    "PLAYER_ID":1629234,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Jusuf Nurki\u0107",
+    "PLAYER_ID":203994,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"David Roddy",
+    "PLAYER_ID":1631223,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Eric Gordon",
+    "PLAYER_ID":201569,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Nassir Little",
+    "PLAYER_ID":1629642,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Udoka Azubuike",
+    "PLAYER_ID":1628962,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Thaddeus Young",
+    "PLAYER_ID":201152,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Kevin Durant",
+    "PLAYER_ID":201142,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Saben Lee",
+    "PLAYER_ID":1630240,
+    "TEAM_NAME":"Phoenix Suns",
+    "TEAM_ID":1610612756
+  },
+  {
+    "PLAYER":"Scoot Henderson",
+    "PLAYER_ID":1630703,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Anfernee Simons",
+    "PLAYER_ID":1629014,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Deandre Ayton",
+    "PLAYER_ID":1629028,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Matisse Thybulle",
+    "PLAYER_ID":1629680,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Dalano Banton",
+    "PLAYER_ID":1630625,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Kris Murray",
+    "PLAYER_ID":1631200,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Jerami Grant",
+    "PLAYER_ID":203924,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Moses Brown",
+    "PLAYER_ID":1629650,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Malcolm Brogdon",
+    "PLAYER_ID":1627763,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Shaedon Sharpe",
+    "PLAYER_ID":1631101,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Ashton Hagans",
+    "PLAYER_ID":1630204,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Justin Minaya",
+    "PLAYER_ID":1631303,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Duop Reath",
+    "PLAYER_ID":1641871,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Toumani Camara",
+    "PLAYER_ID":1641739,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Jabari Walker",
+    "PLAYER_ID":1631133,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Robert Williams III",
+    "PLAYER_ID":1629057,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Ibou Badji",
+    "PLAYER_ID":1630641,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Rayan Rupert",
+    "PLAYER_ID":1641712,
+    "TEAM_NAME":"Portland Trail Blazers",
+    "TEAM_ID":1610612757
+  },
+  {
+    "PLAYER":"Malik Monk",
+    "PLAYER_ID":1628370,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"JaVale McGee",
+    "PLAYER_ID":201580,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Chris Duarte",
+    "PLAYER_ID":1630537,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"De'Aaron Fox",
+    "PLAYER_ID":1628368,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Sasha Vezenkov",
+    "PLAYER_ID":1628426,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Mason Jones",
+    "PLAYER_ID":1630222,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Kevin Huerter",
+    "PLAYER_ID":1628989,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Domantas Sabonis",
+    "PLAYER_ID":1627734,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Keegan Murray",
+    "PLAYER_ID":1631099,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Davion Mitchell",
+    "PLAYER_ID":1630558,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Kessler Edwards",
+    "PLAYER_ID":1630556,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Jalen Slawson",
+    "PLAYER_ID":1641771,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Colby Jones",
+    "PLAYER_ID":1641732,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Keon Ellis",
+    "PLAYER_ID":1631165,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Alex Len",
+    "PLAYER_ID":203458,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Jordan Ford",
+    "PLAYER_ID":1630259,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Harrison Barnes",
+    "PLAYER_ID":203084,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"Trey Lyles",
+    "PLAYER_ID":1626168,
+    "TEAM_NAME":"Sacramento Kings",
+    "TEAM_ID":1610612758
+  },
+  {
+    "PLAYER":"RaiQuan Gray",
+    "PLAYER_ID":1630564,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Victor Wembanyama",
+    "PLAYER_ID":1641705,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Keldon Johnson",
+    "PLAYER_ID":1629640,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Devonte' Graham",
+    "PLAYER_ID":1628984,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Jeremy Sochan",
+    "PLAYER_ID":1631110,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Blake Wesley",
+    "PLAYER_ID":1631104,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Cedi Osman",
+    "PLAYER_ID":1626224,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Jamaree Bouyea",
+    "PLAYER_ID":1631123,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Malaki Branham",
+    "PLAYER_ID":1631103,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Zach Collins",
+    "PLAYER_ID":1628380,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Devin Vassell",
+    "PLAYER_ID":1630170,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Sidy Cissoko",
+    "PLAYER_ID":1631321,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Dominick Barlow",
+    "PLAYER_ID":1631230,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Charles Bassey",
+    "PLAYER_ID":1629646,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"David Duke Jr.",
+    "PLAYER_ID":1630561,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Julian Champagnie",
+    "PLAYER_ID":1630577,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Tre Jones",
+    "PLAYER_ID":1630200,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Sandro Mamukelashvili",
+    "PLAYER_ID":1630572,
+    "TEAM_NAME":"San Antonio Spurs",
+    "TEAM_ID":1610612759
+  },
+  {
+    "PLAYER":"Shai Gilgeous-Alexander",
+    "PLAYER_ID":1628983,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Josh Giddey",
+    "PLAYER_ID":1630581,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Luguentz Dort",
+    "PLAYER_ID":1629652,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Jaylin Williams",
+    "PLAYER_ID":1631119,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Chet Holmgren",
+    "PLAYER_ID":1631096,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Jalen Williams",
+    "PLAYER_ID":1631114,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Isaiah Joe",
+    "PLAYER_ID":1630198,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Lindy Waters III",
+    "PLAYER_ID":1630322,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Ousmane Dieng",
+    "PLAYER_ID":1631172,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Adam Flagler",
+    "PLAYER_ID":1641745,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Bismack Biyombo",
+    "PLAYER_ID":202687,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Keyontae Johnson",
+    "PLAYER_ID":1641749,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Aaron Wiggins",
+    "PLAYER_ID":1630598,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Cason Wallace",
+    "PLAYER_ID":1641717,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Olivier Sarr",
+    "PLAYER_ID":1630846,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Gordon Hayward",
+    "PLAYER_ID":202330,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Kenrich Williams",
+    "PLAYER_ID":1629026,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Mike Muscala",
+    "PLAYER_ID":203488,
+    "TEAM_NAME":"Oklahoma City Thunder",
+    "TEAM_ID":1610612760
+  },
+  {
+    "PLAYER":"Malik Williams",
+    "PLAYER_ID":1642013,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Javon Freeman-Liberty",
+    "PLAYER_ID":1631241,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Gradey Dick",
+    "PLAYER_ID":1641711,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Jalen McDaniels",
+    "PLAYER_ID":1629667,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"D.J. Carton",
+    "PLAYER_ID":1630618,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Scottie Barnes",
+    "PLAYER_ID":1630567,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Immanuel Quickley",
+    "PLAYER_ID":1630193,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"RJ Barrett",
+    "PLAYER_ID":1629628,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Bruce Brown",
+    "PLAYER_ID":1628971,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Jordan Nwora",
+    "PLAYER_ID":1629670,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Mouhamadou Gueye",
+    "PLAYER_ID":1631338,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Garrett Temple",
+    "PLAYER_ID":202066,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Jakob Poeltl",
+    "PLAYER_ID":1627751,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Chris Boucher",
+    "PLAYER_ID":1628449,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Ochai Agbaji",
+    "PLAYER_ID":1630534,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Gary Trent Jr.",
+    "PLAYER_ID":1629018,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Kelly Olynyk",
+    "PLAYER_ID":203482,
+    "TEAM_NAME":"Toronto Raptors",
+    "TEAM_ID":1610612761
+  },
+  {
+    "PLAYER":"Jordan Clarkson",
+    "PLAYER_ID":203903,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Taylor Hendricks",
+    "PLAYER_ID":1641707,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Collin Sexton",
+    "PLAYER_ID":1629012,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Keyonte George",
+    "PLAYER_ID":1641718,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Talen Horton-Tucker",
+    "PLAYER_ID":1629659,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Brice Sensabaugh",
+    "PLAYER_ID":1641729,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Jason Preston",
+    "PLAYER_ID":1630554,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Kris Dunn",
+    "PLAYER_ID":1627739,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Kira Lewis Jr.",
+    "PLAYER_ID":1630184,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Luka Samanic",
+    "PLAYER_ID":1629677,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"John Collins",
+    "PLAYER_ID":1628381,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Lauri Markkanen",
+    "PLAYER_ID":1628374,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Walker Kessler",
+    "PLAYER_ID":1631117,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Micah Potter",
+    "PLAYER_ID":1630695,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Darius Bazley",
+    "PLAYER_ID":1629647,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Johnny Juzang",
+    "PLAYER_ID":1630548,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Kenneth Lofton Jr.",
+    "PLAYER_ID":1631254,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Omer Yurtseven",
+    "PLAYER_ID":1630209,
+    "TEAM_NAME":"Utah Jazz",
+    "TEAM_ID":1610612762
+  },
+  {
+    "PLAYER":"Jordan Goodwin",
+    "PLAYER_ID":1630692,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Scotty Pippen Jr.",
+    "PLAYER_ID":1630590,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Jake LaRavia",
+    "PLAYER_ID":1631222,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Vince Williams Jr.",
+    "PLAYER_ID":1631246,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Santi Aldama",
+    "PLAYER_ID":1630583,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Ziaire Williams",
+    "PLAYER_ID":1630533,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Luke Kennard",
+    "PLAYER_ID":1628379,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Ja Morant",
+    "PLAYER_ID":1629630,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Jaren Jackson Jr.",
+    "PLAYER_ID":1628991,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Brandon Clarke",
+    "PLAYER_ID":1629634,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Yuta Watanabe",
+    "PLAYER_ID":1629139,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Desmond Bane",
+    "PLAYER_ID":1630217,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Derrick Rose",
+    "PLAYER_ID":201565,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Lamar Stevens",
+    "PLAYER_ID":1630205,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Marcus Smart",
+    "PLAYER_ID":203935,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"GG Jackson",
+    "PLAYER_ID":1641713,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"John Konchar",
+    "PLAYER_ID":1629723,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Trey Jemison III",
+    "PLAYER_ID":1641998,
+    "TEAM_NAME":"Memphis Grizzlies",
+    "TEAM_ID":1610612763
+  },
+  {
+    "PLAYER":"Bilal Coulibaly",
+    "PLAYER_ID":1641731,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Tristan Vukcevic",
+    "PLAYER_ID":1641774,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Johnny Davis",
+    "PLAYER_ID":1631098,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Jared Butler",
+    "PLAYER_ID":1630215,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Tyus Jones",
+    "PLAYER_ID":1626145,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Patrick Baldwin Jr.",
+    "PLAYER_ID":1631116,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Deni Avdija",
+    "PLAYER_ID":1630166,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Jordan Poole",
+    "PLAYER_ID":1629673,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Jules Bernard",
+    "PLAYER_ID":1631262,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Anthony Gill",
+    "PLAYER_ID":1630264,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Landry Shamet",
+    "PLAYER_ID":1629013,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Richaun Holmes",
+    "PLAYER_ID":1626158,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Corey Kispert",
+    "PLAYER_ID":1630557,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Kyle Kuzma",
+    "PLAYER_ID":1628398,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Marvin Bagley III",
+    "PLAYER_ID":1628963,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Eugene Omoruyi",
+    "PLAYER_ID":1630647,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Justin Champagnie",
+    "PLAYER_ID":1630551,
+    "TEAM_NAME":"Washington Wizards",
+    "TEAM_ID":1610612764
+  },
+  {
+    "PLAYER":"Jalen Duren",
+    "PLAYER_ID":1631105,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Cade Cunningham",
+    "PLAYER_ID":1630595,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Chimezie Metu",
+    "PLAYER_ID":1629002,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Troy Brown Jr.",
+    "PLAYER_ID":1628972,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Jared Rhoden",
+    "PLAYER_ID":1631197,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Ausar Thompson",
+    "PLAYER_ID":1641709,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"James Wiseman",
+    "PLAYER_ID":1630164,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Stanley Umude",
+    "PLAYER_ID":1630649,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Malachi Flynn",
+    "PLAYER_ID":1630201,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Tosan Evbuomwan",
+    "PLAYER_ID":1641787,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Simone Fontecchio",
+    "PLAYER_ID":1631323,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Jaden Ivey",
+    "PLAYER_ID":1631093,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Quentin Grimes",
+    "PLAYER_ID":1629656,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Marcus Sasser",
+    "PLAYER_ID":1631204,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Buddy Boeheim",
+    "PLAYER_ID":1631205,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Isaiah Stewart",
+    "PLAYER_ID":1630191,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Evan Fournier",
+    "PLAYER_ID":203095,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Taj Gibson",
+    "PLAYER_ID":201959,
+    "TEAM_NAME":"Detroit Pistons",
+    "TEAM_ID":1610612765
+  },
+  {
+    "PLAYER":"Miles Bridges",
+    "PLAYER_ID":1628970,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"LaMelo Ball",
+    "PLAYER_ID":1630163,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Grant Williams",
+    "PLAYER_ID":1629684,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Nick Richards",
+    "PLAYER_ID":1630208,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Mark Williams",
+    "PLAYER_ID":1631109,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Bryce McGowens",
+    "PLAYER_ID":1631121,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Nick Smith Jr.",
+    "PLAYER_ID":1641733,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"D\u0101vis Bert\u0101ns",
+    "PLAYER_ID":202722,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Amari Bailey",
+    "PLAYER_ID":1641735,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Cody Martin",
+    "PLAYER_ID":1628998,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Leaky Black",
+    "PLAYER_ID":1641778,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Marques Bolden",
+    "PLAYER_ID":1629716,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Aleksej Pokusevski",
+    "PLAYER_ID":1630197,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"JT Thor",
+    "PLAYER_ID":1630550,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Vasilije Mici\u0107",
+    "PLAYER_ID":203995,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Tre Mann",
+    "PLAYER_ID":1630544,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Brandon Miller",
+    "PLAYER_ID":1641706,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  },
+  {
+    "PLAYER":"Seth Curry",
+    "PLAYER_ID":203552,
+    "TEAM_NAME":"Charlotte Hornets",
+    "TEAM_ID":1610612766
+  }
+]
