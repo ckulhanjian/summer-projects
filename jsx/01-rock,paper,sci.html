@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>rock, paper, scissors</title>
+</head>
+<body>
+    <p>rock, paper, scissors...shoot!</p>
+    <button onclick="gen_rand('rock')">rock</button>
+    <button onclick="gen_rand('paper')">paper</button>
+    <button onclick="gen_rand('scissors')">scissors</button>
+
+    <script>
+        function gen_rand(player_choice) {
+            const num = Math.random();
+            let computerMove = '';
+
+            if (num < 1/3) {
+                computerMove = "rock"
+            }
+            else if (num >= 1/3 && num < 2/3) {
+                computerMove = "paper"
+            }
+            else {
+                computerMove = "scissors"
+            }
+
+            // rock > scissors
+            // scissor > paper
+            // paper > rock
+
+            if (player_choice==='rock') {
+                if (computerMove==='scissors') {
+                    alert(`${player_choice} beats ${computerMove}! you win :)`)
+                }
+                else if (computerMove==='paper') {
+                    alert(`${computerMove} beats ${player_choice}! you lose :(`)
+                }
+                else if (computerMove==='rock') {
+                    alert(`${player_choice} and ${computerMove} tie! :/`)
+                }
+            }
+            else if (player_choice === 'paper') {
+                if (computerMove==='scissors') {
+                    alert(`${computerMove} beats ${player_choice}! you lose :(`)
+                }
+                else if (computerMove==='paper') {
+                    alert(`${player_choice} and ${computerMove} tie! :/`)
+                }
+                else if (computerMove==='rock') {
+                    alert(`${player_choice} beats ${computerMove}! you win :)`)
+                }
+            }
+            else { // player = scissors
+                if (computerMove==='scissors') {
+                    alert(`${player_choice} and ${computerMove} tie! :/`)
+                }
+                else if (computerMove==='paper') {
+                    alert(`${player_choice} beats ${computerMove}! you win :)`)
+                }
+                else if (computerMove==='rock') {
+                    alert(`${computerMove} beats ${player_choice}! you lose :(`)
+                }
+
+            }
+        }
+
+    </script>
+</body>
+</html>

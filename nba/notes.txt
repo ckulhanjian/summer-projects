@@ -15,3 +15,5 @@ DataFrames
 - df -> json
     - orient="records" : This defines the structure of the JSON.
 	"records" means: each row of the DataFrame becomes a dictionary, and all rows are stored in a list
+
+5 === "5.00" & !==

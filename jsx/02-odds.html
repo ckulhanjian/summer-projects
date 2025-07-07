@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>what are the odds?</title>
+</head>
+<body>
+    <h1>What are the odds?</h1>
+    <p>Think of something you want to do...it has to be BOLD, CRAZY (and maybe a little reckless). 
+        Like skip school, get a tattoo, clean your room!</p>
+
+    <h2>Now here is the scale</h2>
+    <p>|--0-10-25--50---75----100---------1000--|</p>
+    <p>highly likely it happens > I doubt it</p>
+
+    <h2>Step 1: Pick a scale</h2>
+    <p>how much do you want this to happen? (less is more)</p>
+    <div>
+        <button onclick="set_scale(10)">10</button>
+        <button onclick="set_scale(25)">25</button>
+        <button onclick="set_scale(50)">50</button>
+        <button onclick="set_scale(75)">75</button>
+        <button onclick="set_scale(100)">100</button>
+        <button onclick="set_scale(1000)">1000</button>
+        <input type="number" placeholder="e.g. 100,000" id="scale"/>
+        <button onclick="set_scale(Number(document.getElementById('scale').value))">enter</button>
+    </div>
+
+    
+    <h3 id="range"></h3>
+
+
+    <h2>Step 2: Guess a number in that range</h2>
+    <h4>If I guess the same number...you have to do it!</h4>
+    <input type="number" placeholder="your number" id="userNum"/>
+    <button onclick="setNum()">enter</button>
+
+    <h3 id="yourNumber"></h3>
+    
+
+    <button onclick="genResult()">Let's Chance It!</button>
+    <h1 id="Result"></h1>
+
+
+    <script>
+        let scale = 0;
+        let rand_num = 0;
+        let num = 0;
+
+        function set_scale(range) {
+            scale = range;
+            console.log(scale)
+            document.getElementById("range").textContent = "Your scale: " + scale;
+        }
+
+        function gen_rand() {
+            rand_num = Math.floor(Math.random() * (scale+1))
+        }
+
+        function setNum() {
+            num = document.getElementById("userNum").value // set type to num
+            document.getElementById("yourNumber").textContent = "Your number: " + num;
+
+            if (num > scale) {
+                document.getElementById("yourNumber").textContent = "Not in range, choose again!";
+            }
+
+            num = Number(num)
+        }
+
+        function genResult() {
+            gen_rand() // calculate random number
+
+            // display result
+            if (num === rand_num) {
+                    document.getElementById("Result").textContent = `Right on the jackpot! You choose ${num} 
+                    and I choose ${rand_num}. So now you HAVE to do it!`;
+                }
+                else {
+                    document.getElementById("Result").textContent = `You got lucky this time (or maybe not)! 
+                    You choose ${num} and I choose ${rand_num}. Try again & test the fates...if you dare.`;
+                }
+        }
+
+    </script>
+</body>
+</html>

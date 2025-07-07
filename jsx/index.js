@@ -1,3 +1,5 @@
-let myAge = 20
+let count = 0
 
-console.log(myAge)
+function increment() {
+    count += 1
+}
