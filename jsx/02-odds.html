@@ -2,54 +2,76 @@
 <html>
 <head>
     <title>what are the odds?</title>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <h1>What are the odds?</h1>
-    <p>Think of something you want to do...it has to be BOLD, CRAZY (and maybe a little reckless). 
-        Like skip school, get a tattoo, clean your room!</p>
+<body class="flex flex-col align-center items-center p-14">
 
-    <h2>Now here is the scale</h2>
-    <p>|--0-10-25--50---75----100---------1000--|</p>
-    <p>highly likely it happens > I doubt it</p>
+    <!--heading - info-->
+    <h1 class="text-3xl">What are the odds?</h1>
+    <div class="flex flex-row pt-2">
+        <div class="px-6 text-sm">
+            <p class=" text-gray-500 pt-2">Think of something bold — like skipping class or cleaning your room.
+            <br>1.	Pick a number range (smaller = more likely)
+            <br>2.	Choose your number.
+            <br>If I guess the same number, you have to do it!</p>
+        </div>
 
-    <h2>Step 1: Pick a scale</h2>
-    <p>how much do you want this to happen? (less is more)</p>
-    <div>
-        <button onclick="set_scale(10)">10</button>
-        <button onclick="set_scale(25)">25</button>
-        <button onclick="set_scale(50)">50</button>
-        <button onclick="set_scale(75)">75</button>
-        <button onclick="set_scale(100)">100</button>
-        <button onclick="set_scale(1000)">1000</button>
-        <input type="number" placeholder="e.g. 100,000" id="scale"/>
-        <button onclick="set_scale(Number(document.getElementById('scale').value))">enter</button>
     </div>
-
     
-    <h3 id="range"></h3>
-
-
-    <h2>Step 2: Guess a number in that range</h2>
-    <h4>If I guess the same number...you have to do it!</h4>
-    <input type="number" placeholder="your number" id="userNum"/>
-    <button onclick="setNum()">enter</button>
-
-    <h3 id="yourNumber"></h3>
+        <!--left box-->
+        <div class="flex flex-col items-center">
+            <!--step 1-->
+            <h2 class = "text-2xl pt-10">Step 1: Pick a scale</h2>
+            <div id="buttonScale" class="pt-3 pb-6">
+                <button class="bg-pink-50 px-3 py-1 rounded-full m-1" onclick="set_scale(10, this)">10</button>
+                <button class="bg-pink-100 px-3 py-1 rounded-full m-1" onclick="set_scale(25, this)">25</button>
+                <button class="bg-pink-200 px-3 py-1 rounded-full m-1" onclick="set_scale(50, this)">50</button>
+                <button class="bg-pink-300 px-3 py-1 rounded-full m-1" onclick="set_scale(75, this)">75</button>
+                <button class="bg-pink-400 px-3 py-1 rounded-full m-1" onclick="set_scale(100, this)">100</button>
+                <button class="bg-pink-500 px-3 py-1 rounded-full m-1" onclick="set_scale(1000, this)">1000</button>
+                <input class="bg-pink-100 px-3 py-1 rounded-full m-1" type="number" placeholder="e.g. 100,000" id="scale"/>
+                <button class="bg-pink-600 text-white px-6 py-1 rounded-full text-sm"
+                onclick="set_scale(Number(document.getElementById('scale').value), this)">enter</button>
+            </div>
+            <!--step 2-->
+            <h2 class = "text-2xl pb-3">Step 2: Guess a number in that range</h2>
+            <div >
+                <input class="bg-blue-100 px-3 py-2 rounded-full" type="number" placeholder="your number" id="userNum"/>
+                <button class="bg-blue-600 text-white px-6 py-2 mx-1 rounded-full text-sm" id="user_enter" onclick="setNum()">enter</button>
+            </div>
+        </div>
     
-
-    <button onclick="genResult()">Let's Chance It!</button>
-    <h1 id="Result"></h1>
-
+    <!--display scale and number-->
+    <div class="flex flex-row mt-8">
+            <!--range you chose-->
+            <h3 class="mr-1 text-xl italic text-gray-400" id="range">Range: 0</h3>
+            <!--number you chose-->
+            <h3 class="ml-1 text-xl italic text-gray-400" id="yourNumber">Your number: 0</h3>
+        </div>
+    <h2 class=" h-[50px] text-xl italic text-gray-400" id="odds"></h2>
+    
+    <!--result button-->
+    <button class="inline bg-orange-400 p-4 text-lg m-4 rounded-xl font-bold text-white border-4 border-orange-600" onclick="genResult()">Let's Chance It!</button>
+    <h1 class="text-xl text-center pt-4 h-[100px]" id="Result"></h1>
+    <button class="mt-1 text-gray-500" onclick="reset()">start over</button>
 
     <script>
         let scale = 0;
         let rand_num = 0;
         let num = 0;
 
-        function set_scale(range) {
+        function set_scale(range, clickedBtn) {
             scale = range;
-            console.log(scale)
-            document.getElementById("range").textContent = "Your scale: " + scale;
+            const rangeElem = document.getElementById("range");
+            rangeElem.textContent = "Range: 0-" + scale;
+
+            const buttons = document.querySelectorAll("#buttonScale button, #buttonScale input");
+            buttons.forEach(btn => btn.classList.remove("outline", "outline-black"));
+
+            // Add outline to the clicked one
+            clickedBtn.classList.add("outline", "outline-black", "outline-4");
+
+            getOdds()
         }
 
         function gen_rand() {
@@ -58,6 +80,7 @@
 
         function setNum() {
             num = document.getElementById("userNum").value // set type to num
+
             document.getElementById("yourNumber").textContent = "Your number: " + num;
 
             if (num > scale) {
@@ -65,22 +88,53 @@
             }
 
             num = Number(num)
+
+            // Add a temporary outline to the button
+            const btn = event.currentTarget;
+            btn.classList.add("outline", "outline-black", "outline-4");
+        }
+        
+        function getOdds() {
+            const odds = 1 / (scale + 1);
+            const percent = (odds * 100).toFixed(2);
+            document.getElementById("odds").textContent = 
+            `Odds are 1 in ${scale} or ~${percent}%`;
         }
 
         function genResult() {
             gen_rand() // calculate random number
 
+            if (num > scale) {
+                document.getElementById("Result").innerHTML = `Somethings not right...<br>You chose ${num} 
+                    but the max is ${scale}. You can't cheat the universe, try again!`;
+            }
             // display result
-            if (num === rand_num) {
-                    document.getElementById("Result").textContent = `Right on the jackpot! You choose ${num} 
-                    and I choose ${rand_num}. So now you HAVE to do it!`;
-                }
-                else {
-                    document.getElementById("Result").textContent = `You got lucky this time (or maybe not)! 
-                    You choose ${num} and I choose ${rand_num}. Try again & test the fates...if you dare.`;
-                }
+            else if (num === rand_num) {
+                document.getElementById("Result").innerHTML = `Right on the jackpot!<br>You chose ${num} 
+                    and I chose ${rand_num}. So now you HAVE to do it!`;
+            }
+            else {
+                document.getElementById("Result").innerHTML = `You got lucky this time (or maybe not)! 
+                    <br>You chose ${num} and I chose ${rand_num}. Try again & test the fates...if you dare.`;
+            }
         }
 
+        function reset() {
+            scale = 0;
+            rand_num = 0;
+            num = 0;
+
+            document.getElementById("Result").textContent = "";
+            document.getElementById("yourNumber").textContent = "Your number: 0";
+            document.getElementById("range").textContent = "Range: 0";
+            document.getElementById("userNum").value = "";
+            document.getElementById("scale").value = "";
+            const buttons = document.querySelectorAll("#buttonScale button", "#buttonScale input");
+            buttons.forEach(btn => btn.classList.remove("outline", "outline-black"));
+            const button = document.getElementById("user_enter");
+            button.classList.remove("outline");
+            document.getElementById("odds").textContent = "";
+        }
     </script>
 </body>
 </html>
