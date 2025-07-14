@@ -1,6 +1,7 @@
 import json
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, request, jsonify
 # from shot_graph import generate_shot_graph
+from heatmap import generate_heatmap
 
 app = Flask(__name__)
 
@@ -27,9 +28,19 @@ def get_players():
 
     return jsonify(teams_data)
 
-@app.route("/generate-graph", methods=["POST"])
+@app.route("/generate_graph", methods=["POST"])
 def generate_graph():
-    return
+    data = request.get_json()
+    player_name = data.get("player")
+
+    if not player_name:
+        return jsonify({"error": "Player name is required"}), 400
+    
+    # Call the function from player_graph.py to generate the graph and get the image path
+    image_path = generate_heatmap(player_name)
+    
+    # Return the path of the image for use in the frontend
+    return jsonify({"graph_url": f"/{image_path}"})
 
 if __name__ == "__main__":
     app.run(debug=True)

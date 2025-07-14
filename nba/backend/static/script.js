@@ -67,8 +67,8 @@ document.getElementById("generate-button").addEventListener("click", async () =>
         },
         body: JSON.stringify({ player })
     });
-
-    const data = await response.json();
+    console.log("wait for response")
+    const data = await response.json(); // convert response into js object
     document.getElementById("graph-image").src = data.graph_url + "?v=" + new Date().getTime(); // force reload
 });
 

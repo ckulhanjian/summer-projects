@@ -1,44 +1,50 @@
 from nba_api.stats.endpoints import shotchartdetail
 from nba_api.stats.static import players
 import seaborn as sns
-import numpy as np
+# import numpy as np
+import matplotlib
+matplotlib.use('Agg')  # Use the non-interactive backend
 import matplotlib.pyplot as plt
 from matplotlib.patches import Circle, Rectangle, Arc
+# import uuid
+import os
 
+# Ensure the directory exists
+if not os.path.exists('static/graphs'):
+    os.makedirs('static/graphs')
+
+# Function to get player shot data
 def get_player_shots(id, season):
     response = shotchartdetail.ShotChartDetail(
-        team_id=0,               # use 0 if you're just interested in the player
+        team_id=0,               # 0 means just the player
         player_id=id,
-        season_type_all_star='Regular Season',  # also options: 'Playoffs', etc.
+        season_type_all_star='Regular Season',  # or 'Playoffs', etc.
         season_nullable=season,
         context_measure_simple='FGA'  # Field Goal Attempts
     )
-
     df = response.get_data_frames()[0]
     df['X'] = (df['LOC_X'] / 12).round(2)
     df['Y'] = (df['LOC_Y'] / 12).round(2)
-    data = df[['X', 'Y']]  # Make sure these exist
+    data = df[['X', 'Y']]  # Ensure these columns exist
     return data
 
+# Function to plot the density heatmap of shots
 def plot_density(data, color='plasma'):
-    
     fig, ax = plt.subplots(figsize=(5, 5))  # taller for vertical layout
     sns.kdeplot(
         x=data['X'],
         y=data['Y'],
         fill=True,
         cmap=color,
-        bw_adjust=1, # smooth v sharp 1 = smooth & blurried
-        thresh=0.01,  # Minimum density threshold to show color (5%) (too emoty v too fill - adjust)
-        levels=200, # Number of gradient levels (detail in color)
+        bw_adjust=1,  # smooth v sharp 1 = smooth & blurry
+        thresh=0.01,  # Minimum density threshold (5%) (too empty v too full - adjust)
+        levels=200,  # Number of gradient levels
         ax=ax
-        ) # this makes the plot
+    )
     return fig, ax
 
+# Function to draw the basketball court lines
 def draw_half_court(ax, color='black', lw=2):
-    # Coordinates: baseline at y=0, court extends upward to 47 ft
-
-    # --- Base measurements ---
     hoop_y = 4  # hoop is 4 ft in from baseline
     paint_height = 19
     free_throw_line_y = paint_height
@@ -80,37 +86,39 @@ def draw_half_court(ax, color='black', lw=2):
     ax.set_ylim(0, 47)
     ax.set_aspect('equal')
 
+# Function to adjust the appearance of the plot
 def features(ax):
     ax.spines['right'].set_visible(False)
     ax.spines['top'].set_visible(False)
     ax.spines['bottom'].set_visible(False)
-    ax.set_yticks(range(0, 41, 10))  # You can include 47 this way
+    ax.set_yticks(range(0, 41, 10))
     ax.tick_params(axis='y', labelsize=7)
     ax.get_xaxis().set_visible(False)
     ax.set_ylabel('Distance from Baseline')
     ax.tick_params(axis='x', labelsize=7)
 
-def display_player(season, id1, direction):
-    # basic info
-    data1 = get_player_shots(id1,season)
-    # adjust for hoop distance from baseline
-    data1['Y'] = data1['Y']+4
-    # plot heatmap
-    fig, ax = plot_density(data1, color="coolwarm")
-    # draw court lines
+def generate_heatmap(player_name, direction=1):
+    season = '2024-25'
+    player_data = players.find_players_by_full_name(player_name)[0]
+    player_id = player_data['id']
+
+    # Get shot data and generate heatmap
+    data = get_player_shots(player_id, season)
+    data['Y'] = data['Y'] + 4  # adjust for hoop distance
+
+    fig, ax = plot_density(data, color="coolwarm")
     draw_half_court(ax)
-    # special features
-    if direction==1:
+    if direction == 1:
         ax.invert_yaxis()
     features(ax)
-    return plt
+    
+    # Save image with player's name
+    filename = f"static/graphs/{player_name.replace(' ', '_')}.png"
+    plt.savefig(filename, dpi=300, bbox_inches='tight')
+    
+    return filename
 
-def main():
-        season = '2024-25'
-        player1 = players.find_players_by_full_name("Tyler Herro")[0]
-        # player name & id
-        id1 = player1['id']
-        display_player(season, id1, 1)
-        plt.savefig(f"../players/{player1['first_name']}{player1['last_name']}.png", dpi=300, bbox_inches='tight')
-        # {'id': 1628389, 'full_name': 'Bam Adebayo', 'first_name': 'Bam', 'last_name': 'Adebayo', 'is_active': True}
-main()
+# Example usage
+'''
+image_path = main(player_name)  # You can pass any player name here
+'''
