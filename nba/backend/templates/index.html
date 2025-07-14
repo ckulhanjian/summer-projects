@@ -1,12 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="styles.css">
+    <!-- <link rel="stylesheet" href="styles.css"> -->
     <meta charset="UTF-8" />
     <title>NBA Shot Map</title>
 </head>
 <body>
-    <div class="screen">
+    <h1>NBA Shot Comparison</h1>
+
+    <label for="team-select">Team:</label>
+    <select id="team-select"></select> <!--add team options-->
+
+    <label for="player-select">Player:</label>
+    <select id="player-select"></select> <!--add players-->
+
+    <button id="generate-button">See Graph</button>
+
+    <div id="graph-container">
+        <img id="graph-image" src="" alt="Graph will appear here" style="max-width:500px; margin-top:20px;" />
+    </div>
+
+    <script src="../static/script.js"></script>
+
+    <!-- <div class="screen">
         <div class="court">
             <img src="../players/BamAdebayo.png" alt="Bam" height="300" width="400">
             <img src="../players/NikolaJokić.png" alt="Nikola" height="300" width="400">
@@ -31,7 +47,7 @@
 
         </div>
 
-    </div>
+    </div> -->
     
     
     

@@ -90,9 +90,8 @@ def features(ax):
     ax.set_ylabel('Distance from Baseline')
     ax.tick_params(axis='x', labelsize=7)
 
-def display_player(season, player, direction):
+def display_player(season, id1, direction):
     # basic info
-    id1 = player['id']
     data1 = get_player_shots(id1,season)
     # adjust for hoop distance from baseline
     data1['Y'] = data1['Y']+4
@@ -108,9 +107,10 @@ def display_player(season, player, direction):
 
 def main():
         season = '2024-25'
-        player1 = players.find_players_by_full_name("Bam Adebayo")[0]
+        player1 = players.find_players_by_full_name("Tyler Herro")[0]
         # player name & id
-        display_player(season, player1, 1)
-        plt.savefig(f"players/{player1['first_name']}{player1['last_name']}.png", dpi=300, bbox_inches='tight')
+        id1 = player1['id']
+        display_player(season, id1, 1)
+        plt.savefig(f"../players/{player1['first_name']}{player1['last_name']}.png", dpi=300, bbox_inches='tight')
         # {'id': 1628389, 'full_name': 'Bam Adebayo', 'first_name': 'Bam', 'last_name': 'Adebayo', 'is_active': True}
 main()
